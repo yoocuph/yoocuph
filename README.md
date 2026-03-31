@@ -1,9 +1,6 @@
-# Hi, I'm Yussuf 👋
-
-**Data Engineer**
-
+# Hi, I'm Yussuf Kofoworola, ALADE 👋
+---
 I specialise in building reliable, scalable data solutions that support operational decision-making, particularly within supply chain environments. My focus is on transforming raw data into structured, trustworthy datasets that drive insight and efficiency.
-
 ---
 
 ## 💼 Professional Summary
@@ -64,6 +61,8 @@ I am currently deepening my expertise in data engineering, with a focus on build
 ## 📌 Additional Information
 
 Alongside my professional work in data, I contribute to my community through teaching and leadership, demonstrating strong communication, discipline, and a commitment to continuous development.
+
+I am currently leanring Spark, Kafka and Kubernetes
 
 ---
 
