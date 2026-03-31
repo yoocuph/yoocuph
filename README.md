@@ -21,40 +21,61 @@ I am currently deepening my expertise in data engineering, with a focus on build
 * **IaC:** Terraform
 
 ---
-
-## 📂 Key Projects
-
-### 🔹 Supply Chain Data Pipeline
-
-* Designed and implemented an end-to-end data pipeline integrating AWS S3, Google Cloud Storage, and BigQuery
-* Automated data ingestion and orchestration using Apache Airflow
-* Developed transformation models using dbt to structure raw data into analytics-ready formats
-
-### 🔹 Analytics Engineering with dbt
-
-* Built and maintained modular data models following star schema principles
-* Implemented data quality tests and documentation to improve reliability and transparency
-* Enhanced data usability for downstream analytics and reporting
-
-### 🔹 Data Processing & Cleaning Automation
-
-* Developed Python-based data cleaning workflows to standardise and validate raw datasets
-* Improved data consistency and reduced manual intervention in preprocessing tasks
-
----
-
 ## 📈 Current Focus
 
 * Designing scalable data architectures
 * Strengthening expertise in workflow orchestration and automation
 * Applying best practices in data modelling and analytics engineering
+---
+
+## Tools
+<p align="left">
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="https://airflow.apache.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://cloud.google.com/bigquery" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://aws.amazon.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.terraform.io" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linux.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## 🤝 Professional Links
 
-* **LinkedIn:** [https://www.linkedin.com/in/yussuf-kofoworola-alade-73a0b7b6/]
-* **Email:** [Add your email here]
+* **Email:** [aladeyussuf.kofo@gmail.com]
 
 ---
 
