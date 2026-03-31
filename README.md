@@ -3,7 +3,7 @@
 I specialise in building reliable, scalable data solutions that support operational decision-making, particularly within supply chain environments. My focus is on transforming raw data into structured, trustworthy datasets that drive insight and efficiency.
 ---
 
-## 💼 Professional Summary
+## 💼 Professional Summary  
 
 Detail-oriented data professional with hands-on experience in data pipelines, cloud platforms, and analytics engineering. Skilled in designing and implementing data workflows that improve data quality, accessibility, and reporting accuracy.
 
